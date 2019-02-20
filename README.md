@@ -79,5 +79,12 @@ Back on the terminal, type `npm run deploy` and watch the deployment process kic
 
 ## Layout and Styles
 
-From here on out, your job is to iteratively make the webpage look reasonably like the mockup above. Remember to diagram out the box model for your webpage.
+From here on out, your job is to iteratively make the webpage look like the mockup above. Remember to diagram out the box model for your webpage. Below are some useful resources to help you along the way.
 
+### Colors
+
+[Coolors](https://coolors.co) is a great way to build a consistent color palette for your website. The mockup uses [these colors](https://coolors.co/edf5e1-389683-5cda95-50514f-04386c), but you're welcome to use your own color theme.
+
+### Icons
+
+Icons are a great way to invite your users to interact with your webpage. [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use) has a library of professional-looking icons that are free to use (you won't need any of their premium features here).
