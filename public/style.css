@@ -6,3 +6,59 @@
 body {
   margin: 0px;
 }
+
+h2,h3 {
+  margin: 0px;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+  padding: 10px;
+}
+
+#analytics {
+  margin-right: 5px;
+}
+
+#analytics-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+#analytics-list {
+  width: 100%;
+  padding: 5px;
+}
+
+#analytics-list div {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px 10px 0px;
+}
+
+.workout {
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.workout-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.workout div {
+  padding: 5px;
+}
+
+.exercise-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
