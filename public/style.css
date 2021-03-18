@@ -5,4 +5,43 @@
 
 body {
   margin: 0px;
+  background-color:#5CDA95
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  background-color:#389683 ;
+  color:#04386C
+}
+
+h3{
+  color:#04386C;
+  text-align: center;
+}
+
+
+#traker_body {
+  display:flex;
+  background-color: #9EE4AE;
+  padding: 0px;
+  margin: 0px;
+}
+
+#analytics_container{
+  flex:1;
+  background-color:#EDF5E1;
+  height: 15rem;
+  width: 20rem;
+  text-align: start;
+ 
+}
+
+#routines_container{
+  flex: 3;
+  background-color:#EDF5E1;
+  display:flex;
+  flex-direction:column
 }
